@@ -1,5 +1,5 @@
 # AIR landing page
-[DEMO LINK](https://github.com/ibondrk/AIR_landing_page).
+[DEMO LINK](https://ibondrk.github.io/AIR_landing_page/)
 [MOCKUP](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
 Adapt the page to the following screens:
